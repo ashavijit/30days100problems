@@ -5,7 +5,7 @@ def Largest_subarray_sum(arr,l):
         a = max(a,b)
     return a 
   
-# Driver code
+
 arr = [] 
 l=int(input("Enter the length of the array :"))
 for i in range(l):
